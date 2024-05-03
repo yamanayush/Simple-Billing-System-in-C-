@@ -1,2 +1,2 @@
-# Simple-Billing-System-in-C-
-Created a Billing system using C
+# Simple-Billing-System-in-Csharp
+Created a Billing system using Csharp
